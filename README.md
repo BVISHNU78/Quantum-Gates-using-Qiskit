@@ -9,3 +9,4 @@ Quantum Circuit with conditionals
 When building a quantum circuit, there can be interest in applying a certain gate only if a classical register has a specific value. This can be done with the InstructionSet.c_if() method.
 
 In the following example, we start with a single-qubit circuit formed by only a Hadamard gate (HGate), in which we expect to get ∣0⟩∣0⟩ and ∣1⟩∣1⟩ with equal probability.
+![download](https://github.com/user-attachments/assets/ccb621c8-0f89-439d-90b3-b35cbafe43d0)
